@@ -1,0 +1,2 @@
+# nyuuryouku
+Japanese typing pratice
